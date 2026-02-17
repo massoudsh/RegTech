@@ -34,6 +34,8 @@ Timeline and priorities for development, UI/UX, and enhancements. Use this with 
 
 **Reminder:** Week 3 — auth and filters done. Week 4 — Celery task and audit API done.
 
+**GitHub issues:** #11 Token auth, #12 Filtering/search/ordering, #13 Rate limiting, #14 Celery async monitor, #15 Bulk export, #16 Audit log API.
+
 ---
 
 ## Phase 3: UI/UX — Admin & Dashboards (Weeks 5–7)
@@ -48,6 +50,16 @@ Timeline and priorities for development, UI/UX, and enhancements. Use this with 
 | P2 | Dark/light theme toggle | Week 7 | CSS variables, minimal JS |
 
 **Reminder:** Week 5 — admin customizations. Week 7 — dashboard and theme/locale decisions.
+
+**GitHub issues:** #17 Admin customization, #18 Dashboard in Admin, #19 Charts, #20 RTL/Persian, #21 Theme toggle.
+
+---
+
+## Additional rules, scenarios & features (issues)
+
+- **Rules:** #22 PEP/high-risk customer, #23 Night/weekend activity, #24 Round-amount structuring, #25 Same-beneficiary concentration, #26 New-account velocity, #27 Sanctioned countries.
+- **Scenarios:** #28 Structuring E2E test, #29 Layering test.
+- **Features:** #30 Notifications, #31 Rule versioning, #32 Configurable thresholds, #33 SAR/CTR workflow, #34 ML risk model; #35 API examples docs, #36 High-risk countries sample; #37 Docker, #38 CI.
 
 ---
 
